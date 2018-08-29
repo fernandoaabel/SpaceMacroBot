@@ -91,11 +91,11 @@
     <Compile Include="Shortcuts.Designer.cs">
       <DependentUpon>Shortcuts.cs</DependentUpon>
     </Compile>
-    <Compile Include="TestBot.cs">
+    <Compile Include="SpaceMacroBot.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="TestBot.Designer.cs">
-      <DependentUpon>TestBot.cs</DependentUpon>
+    <Compile Include="SpaceMacroBot.Designer.cs">
+      <DependentUpon>SpaceMacroBot.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="NewMacro.resx">
       <DependentUpon>NewMacro.cs</DependentUpon>
@@ -108,8 +108,8 @@
     <EmbeddedResource Include="Shortcuts.resx">
       <DependentUpon>Shortcuts.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="TestBot.resx">
-      <DependentUpon>TestBot.cs</DependentUpon>
+    <EmbeddedResource Include="SpaceMacroBot.resx">
+      <DependentUpon>SpaceMacroBot.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">

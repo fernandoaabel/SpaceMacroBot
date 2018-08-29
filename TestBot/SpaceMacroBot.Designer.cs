@@ -1,6 +1,6 @@
-﻿namespace TestBot
+﻿namespace SpaceMacroBot
 {
-    partial class TestBot
+    partial class SpaceMacroBot
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(TestBot));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(SpaceMacroBot));
             this.commandsList = new System.Windows.Forms.TextBox();
             this.diretorio = new System.Windows.Forms.TextBox();
             this.macrosSalvos = new System.Windows.Forms.ListBox();
@@ -197,7 +197,7 @@
             this.panelBottom.Size = new System.Drawing.Size(535, 30);
             this.panelBottom.TabIndex = 15;
             // 
-            // TestBot
+            // SpaceMacroBot
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -210,9 +210,9 @@
             this.Controls.Add(this.panelBottom);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "TestBot";
+            this.Name = "SpaceMacroBot";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "TestBot";
+            this.Text = "SpaceMacroBot";
             this.TopPanel.ResumeLayout(false);
             this.TopPanel.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.logo)).EndInit();

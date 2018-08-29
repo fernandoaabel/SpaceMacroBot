@@ -1,4 +1,4 @@
-﻿namespace TestBot.Hooks
+﻿namespace SpaceMacroBot.Hooks
 {
     public enum MouseMessages
     {

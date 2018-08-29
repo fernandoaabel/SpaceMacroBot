@@ -1,12 +1,12 @@
-﻿using System;
+﻿using SpaceMacroBot.Properties;
+using System;
 using System.Diagnostics;
 using System.Drawing;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
-using TestBot.Hooks;
-using TestBot.Properties;
+using SpaceMacroBot.Hooks;
 
-namespace TestBot
+namespace SpaceMacroBot
 {
     public delegate void OnCloseHandler();
     public delegate void OnRecordFinishedHandler(string commands);

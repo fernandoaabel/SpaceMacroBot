@@ -1,4 +1,4 @@
-﻿namespace TestBot
+﻿namespace SpaceMacroBot
 {
     partial class NewMacro
     {
@@ -72,7 +72,7 @@
             // 
             // logo
             // 
-            this.logo.Image = global::TestBot.Properties.Resources.space_png;
+            this.logo.Image = global::SpaceMacroBot.Properties.Resources.space_png;
             this.logo.Location = new System.Drawing.Point(4, 3);
             this.logo.Name = "logo";
             this.logo.Size = new System.Drawing.Size(42, 42);
@@ -84,8 +84,8 @@
             // buttonRecord
             // 
             this.buttonRecord.BackColor = System.Drawing.Color.Transparent;
-            this.buttonRecord.Image = global::TestBot.Properties.Resources.play_button;
-            this.buttonRecord.InitialImage = global::TestBot.Properties.Resources.pause;
+            this.buttonRecord.Image = global::SpaceMacroBot.Properties.Resources.play_button;
+            this.buttonRecord.InitialImage = global::SpaceMacroBot.Properties.Resources.pause;
             this.buttonRecord.Location = new System.Drawing.Point(67, 9);
             this.buttonRecord.Name = "buttonRecord";
             this.buttonRecord.Size = new System.Drawing.Size(30, 30);
@@ -97,7 +97,7 @@
             // buttonStop
             // 
             this.buttonStop.BackColor = System.Drawing.Color.Transparent;
-            this.buttonStop.Image = global::TestBot.Properties.Resources.stop;
+            this.buttonStop.Image = global::SpaceMacroBot.Properties.Resources.stop;
             this.buttonStop.Location = new System.Drawing.Point(103, 9);
             this.buttonStop.Name = "buttonStop";
             this.buttonStop.Size = new System.Drawing.Size(30, 30);

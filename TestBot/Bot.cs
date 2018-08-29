@@ -8,7 +8,7 @@ using System.Windows.Forms;
 using WindowsInput;
 using WindowsInput.Native;
 
-namespace TestBot
+namespace SpaceMacroBot
 {
     public class Bot
     {

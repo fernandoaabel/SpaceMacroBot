@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Runtime.InteropServices;
 using WindowsInput.Native;
 
-namespace TestBot.Hooks
+namespace SpaceMacroBot.Hooks
 {
     public delegate IntPtr KeyboardProcess(int nCode, IntPtr wParam, IntPtr lParam);
 

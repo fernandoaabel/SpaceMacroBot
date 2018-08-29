@@ -2,9 +2,9 @@
 using System.Drawing;
 using System.Threading;
 using System.Windows.Forms;
-using TestBot.Hooks;
+using SpaceMacroBot.Hooks;
 
-namespace TestBot
+namespace SpaceMacroBot
 {
     public partial class Shortcuts : Form
     {

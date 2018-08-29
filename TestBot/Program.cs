@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace TestBot
+namespace SpaceMacroBot
 {
     static class Program
     {
@@ -13,7 +13,7 @@ namespace TestBot
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new TestBot());
+            Application.Run(new SpaceMacroBot());
         }
     }
 }

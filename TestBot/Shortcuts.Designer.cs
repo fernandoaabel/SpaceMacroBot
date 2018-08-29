@@ -1,4 +1,4 @@
-﻿namespace TestBot
+﻿namespace SpaceMacroBot
 {
     partial class Shortcuts
     {

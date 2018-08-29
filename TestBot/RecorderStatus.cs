@@ -1,4 +1,4 @@
-﻿namespace TestBot
+﻿namespace SpaceMacroBot
 {
     public enum RecorderStatus
     {
